@@ -1,4 +1,4 @@
 # TIC-TAC-TOE
-# Labib AHmed
+# Labib Ahmed
 # 1604065
 # Chittagong University of Engineering and Technology
